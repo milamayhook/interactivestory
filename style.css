@@ -10,26 +10,22 @@ body {
   font-family: sans-serif;
 }
 
-/* Outer padding container */
 .page {
   padding: 40px;
 }
 
-/* Image container */
 .image-wrapper {
   position: relative;
   max-width: 1200px; /* optional max size */
   width: 100%;
 }
 
-/* Image scaling */
 .image-wrapper img {
   width: 100%;
   height: auto;
   display: block;
 }
 
-/* Overlay buttons */
 .overlay-btn {
   position: absolute;
   background: transparent;
@@ -37,7 +33,6 @@ body {
   cursor: pointer;
 }
 
-/* Clock In */
 .clock-in {
   left: 8.3%;
   top: 79.4%;
@@ -45,7 +40,6 @@ body {
   height: 12.3%;
 }
 
-/* No */
 .no-btn {
   left: 41.5%;
   top: 79.4%;
@@ -61,7 +55,7 @@ body {
   text-decoration: none;
 }
 
-/* Debug helper (remove later) */
+
 .overlay-btn:hover {
   outline: 2px dashed red;
 }
