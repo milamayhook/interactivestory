@@ -8,11 +8,11 @@ body {
   align-items: center;
   min-height: 100vh;
   font-family: sans-serif;
-    overflow: hidden;
+ 
 }
 
 .page {
-  padding: 200px;
+  padding: 190px;
 }
 
 .image-wrapper {
